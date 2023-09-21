@@ -1,0 +1,12 @@
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\bin\Debug\net7.0\Kiron-Interactive.deps.json
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\bin\Debug\net7.0\Kiron-Interactive.dll
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\bin\Debug\net7.0\Kiron-Interactive.pdb
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.csproj.AssemblyReference.cache
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.AssemblyInfoInputs.cache
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.AssemblyInfo.cs
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.csproj.CoreCompileInputs.cache
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.dll
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\refint\Kiron-Interactive.dll
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\Kiron-Interactive.pdb
+C:\Users\ebies\Desktop\Practice\Kiron-Interactive\obj\Debug\net7.0\ref\Kiron-Interactive.dll
